@@ -1,3 +1,0 @@
-[submodule "external/peel"]
-	path = external/peel
-	url = https://gitlab.gnome.org/bugaevc/peel.git
